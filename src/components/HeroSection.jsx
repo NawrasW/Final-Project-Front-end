@@ -35,7 +35,7 @@ export default function HeroSection() {
 
           <div className="search-container">
             <div className="search-box">
-              <input type="text" placeholder="Search Your Course Plus +" className="search-input" />
+              <input type="text" placeholder="Search Your Course Here" className="search-input" />
               <button className="search-button">Search <i class="bi bi-send"></i></button>
             </div>
           </div>
