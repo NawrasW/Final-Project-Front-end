@@ -1,9 +1,9 @@
 # Final-Project-Front-end
 
-Envato Market is a collection of niche marketplaces where authors can sell their items directly to customers. Authors upload their work, users buy and license the item and authors earn.
-<br />
-<br />
 This is a modern, responsive front-end project built with React and Bootstrap, designed to mimic the Edusion website. It features several reusable components that are optimized for both desktop and mobile screens.
+<br />
+<br />
+Envato Market is a collection of niche marketplaces where authors can sell their items directly to customers. Authors upload their work, users buy and license the item and authors earn.
 
 ## Features
 - **Responsive Navigation Bar:** A smooth, scroll-based header that hides a top bar to provide more screen space as the user scrolls down.  
