@@ -39,10 +39,10 @@ You need to have Node.js and npm (or yarn) installed on your machine.
   The application will automatically open in your default browser at http://localhost:3000
 
 # Project Structure
-- **src/App.js: The main application file, handling routing.
-- **src/components/: Reusable React components like Navbar, ExpertsSection, FAQSection, etc.
-- **src/pages/: Components that represent a full page in the application, such as HomePage, About, and Contact.
-- 
+- **src/App.js:** The main application file, handling routing.
+- **src/components/:** Reusable React components like Navbar, ExpertsSection, FAQSection, etc.
+- **src/pages/:** Components that represent a full page in the application, such as HomePage, About, and Contact.
+
 # Contributing
 Contributions are welcome! If you find a bug or have a suggestion, please open an issue or submit a pull request.
 <br />
