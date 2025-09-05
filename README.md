@@ -3,8 +3,6 @@
 Envato Market is a collection of niche marketplaces where authors can sell their items directly to customers. Authors upload their work, users buy and license the item and authors earn.
 <br />
 <br />
-
-## Edusion Front-end Project  
 This is a modern, responsive front-end project built with React and Bootstrap, designed to mimic the Edusion website. It features several reusable components that are optimized for both desktop and mobile screens.
 
 ## Features
